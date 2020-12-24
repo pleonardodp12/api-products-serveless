@@ -1,0 +1,12 @@
+{
+  "name": "Leonardo Dias",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
